@@ -1,5 +1,5 @@
 
 fsquid:S2095"JUse try-with-resources or close this "ServerSocket" in a "finally" clause.(ùììÇ8µ«Ð¤ê.
 Y
-squid:S106"9Replace this use of System.out or System.err by a logger.(”ûèåÿÿÿÿÿ8ÕÞÈ¤ê.
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÐÊÒ¥ÿÿÿÿÿ8ÕÞÈ¤ê.
 Csquid:S2189""Add an end condition to this loop.(˜ïˆžÿÿÿÿÿ8ÕÞÈ¤ê.

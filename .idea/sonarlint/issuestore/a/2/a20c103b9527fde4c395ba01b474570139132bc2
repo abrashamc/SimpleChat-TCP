@@ -1,14 +1,14 @@
 
-Rsquid:S1948"1Make "dataInputStream" transient or serializable.(×Ìûÿÿÿÿ8¿ÜÙ¤ê.
-Ksquid:S00108")Either remove or fill this block of code.(²ÕŒ·ùÿÿÿÿ8Ê¤Ø¤ê.
-Isquid:S1948"(Make "socket" transient or serializable.(Å’¬Úşÿÿÿÿ8Ê¤Ø¤ê.
-Ksquid:S1948"0Make "receiverThread" transient or serializable.(ŸÊöO8İ¤ê.
-Ksquid:S00108")Either remove or fill this block of code.(²ÕŒ·ùÿÿÿÿ8Ê¤Ø¤ê.
-[squid:S1161":Add the "@Override" annotation above this method signature(†§şıÿÿÿÿ8Ê¤Ø¤ê.
-Ksquid:S00108")Either remove or fill this block of code.(¬Àáªøÿÿÿÿ8Ê¤Ø¤ê.
-Ssquid:S1948"2Make "dataOutputStream" transient or serializable.(·ı•ııÿÿÿÿ8áõÙ¤ê.
 jsquid:MaximumInheritanceDepth"<This class has 6 parents which is greater than 5 authorized.(Ì£é8Ê¤Ø¤ê.
+Isquid:S1948"(Make "socket" transient or serializable.(Å’¬Úşÿÿÿÿ8Ê¤Ø¤ê.
+Rsquid:S1948"1Make "dataInputStream" transient or serializable.(×Ìûÿÿÿÿ8¿ÜÙ¤ê.
+Ksquid:S00108")Either remove or fill this block of code.(¬Àáªøÿÿÿÿ8Ê¤Ø¤ê.
+Ksquid:S00108")Either remove or fill this block of code.(¬Àáªøÿÿÿÿ8Ê¤Ø¤ê.
+[squid:S1161":Add the "@Override" annotation above this method signature(†§şıÿÿÿÿ8Ê¤Ø¤ê.
+Ssquid:S1948"2Make "dataOutputStream" transient or serializable.(·ı•ııÿÿÿÿ8áõÙ¤ê.
+Ksquid:S00108")Either remove or fill this block of code.(²ÕŒ·ùÿÿÿÿ8Ê¤Ø¤ê.
+Ksquid:S1948"0Make "receiverThread" transient or serializable.(ŸÊöO8İ¤ê.
 Csquid:S3398"'Move this method into "ReceiverThread".(Éÿ‚³8Ê¤Ø¤ê.
+Ksquid:S00108")Either remove or fill this block of code.(²ÕŒ·ùÿÿÿÿ8Ê¤Ø¤ê.
 Ksquid:S00108")Either remove or fill this block of code.(¬Àáªøÿÿÿÿ8Ê¤Ø¤ê.
 Vsquid:S1161":Add the "@Override" annotation above this method signature(“–ış8Ê¤Ø¤ê.
-Ksquid:S00108")Either remove or fill this block of code.(¬Àáªøÿÿÿÿ8Ê¤Ø¤ê.
