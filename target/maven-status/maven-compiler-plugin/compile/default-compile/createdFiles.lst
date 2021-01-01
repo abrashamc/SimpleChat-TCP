@@ -1,0 +1,6 @@
+app/Client.class
+app/view/ChatFrame$WindowHandler.class
+app/view/ChatFrame.class
+app/Server.class
+app/view/ChatFrame$ReceiverThread.class
+app/view/ChatFrame$SendHandler.class
